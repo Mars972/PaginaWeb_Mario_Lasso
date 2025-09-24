@@ -1,0 +1,78 @@
+body{
+    background-color: beige;
+}
+header{
+    background-color: rgb(43, 43, 85);
+    color: white;
+    width: 100%;
+}
+header h1{
+    text-align: center;
+    margin: 30px;
+    padding-top: 10px;
+}
+nav{
+    margin-left: 350px;
+}
+header ul{
+    list-style-type: none;
+    text-align: left;
+    display: flex;
+    
+}
+ul li{
+    padding-right: 100px;
+}
+header a{
+    background-color: rgb(136, 112, 60);
+    margin: auto;
+    font-weight: bold;
+    width: 100%;
+    text-decoration: none;
+    color: rgb(43, 43, 85);
+    padding: 10px 15px;
+    border-radius: 10px;
+    
+
+}
+header a:hover{
+    color: red; 
+}
+.parrafo{
+    text-align: justify;
+    margin: 5px 20px;
+}
+main h2{
+    background-color: rgb(43, 43, 85);
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    margin: 0 300px;
+
+}
+main div{
+    text-align: center ;
+}
+main img{
+    width: 600px;
+    height: 500px;
+}
+div h4{
+    background-color: rgb(43, 43, 85);
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    margin: 20px 500px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+td{
+    border: 1px solid #383838;
+}
+footer{
+    text-align: right;
+    color: gray;
+}

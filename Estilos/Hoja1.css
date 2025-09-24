@@ -1,0 +1,94 @@
+
+.texto_azul {
+    color: blue;
+}
+.texto_Al_Pie {
+    color: gray;
+    text-align: right;
+}
+table {
+    border-collapse: collapse; 
+    width: 100%;
+  }
+
+th, td {
+    border: 1px solid #626262; 
+    padding: 8px;
+    text-align: left;
+}
+
+img 
+{
+    width: 350px;
+    height: 250px;
+    margin-right: 20px;
+    border-radius: 35px;
+}
+.masLado{
+    margin-left: 160px;
+}
+header{
+    background-color: #e0e2ed;
+    
+    padding: 20px ;
+    text-align: center;
+    
+}
+footer {
+
+padding: 10px;
+text-align: center; 
+}
+a{
+    color: #ec6a0d;
+    text-decoration: none; 
+}
+a:hover{
+    color: #c21919;
+    text-decoration: underline;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+    margin: 0 30px ;
+    margin-bottom: 10px;
+
+}
+body{
+    background-color: rgb(222, 198, 198);
+}
+h6{
+    margin-bottom: 0;
+}
+.sb{
+    font-size: 30px;
+}
+
+header ul{
+    background-color: #e0e2ed;
+    list-style-type: none;
+    text-align: left;
+    display: flex;
+    
+}
+ul li{
+    padding-right: 100px;
+}
+header a{
+    background-color: rgb(136, 112, 60);
+    margin: auto;
+    font-weight: bold;
+    width: 100%;
+    text-decoration: none;
+    color: rgb(43, 43, 85);
+    padding: 10px 15px;
+    border-radius: 10px;
+    
+
+}
+header a:hover{
+    color: red; 
+}
+nav{
+    margin-left: 350px;
+}
